@@ -2,6 +2,7 @@
 
 ## GOAL
 - Build a real time analog clock.
+- Start from a project created with create-react-app.
 - User should be able to switch between different time zones.
 - Get a list of alarms from a url with a HTTP request from react and show a modal on time with message.
 - Clock should be displayed correctly, but appearance wont't be checked.
